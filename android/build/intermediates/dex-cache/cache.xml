@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-0f3862886335d0b64a6c248c36b232047215ab1e.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-488c2e7019aad7e49ae5b3b93653d8004ddfd78c.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-5d7808ed5299918a4a9af716427ee63ef3d6e85e.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-c979f668e0927127b08b1c2a6675f3e3922140a2.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-11f89ec4d14e4269fa4f7bf5a68e55341a5ac189.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-bd56f23242d42ae31eb57e13c2240122bee5eee2.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/opentour2017/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea8c4d3bc65db2fd2f2b5fe1443fae225e2a14a5">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-0c70534533c6a7f9d7661866ef2d2048035a6e0a.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-cf79d16c50399dcb9b8dcb9c58d2a77be594c9c3.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-2d5b496e3001c5a36f324a1892feaedaeb7c03a2.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-bd3733b82162928596d1ee7be259fc244c241083.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-601be6352e03a724768d0f4812949669d2e0cbd7.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-0d12c0aa42f70eaeea7797cd2a2bdb1bd52eceda.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-b9b91905ff974fc3ce3d64468a0037ed01cddbcf.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-e354d00347be76d6152d738a698819b31bbf2743.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-d4c6e774d61af6bbed319f919f9a33fc30ef84e3.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-137b73f72d02a16f8a063fd1605013651756df0e.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.40.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-c5485cde51946b1de317c5c52f4fdd07f2e6028d.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-538e97c12fbff1870750d389165f5f7d7b47a6e7.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-a0a0961e11c9152439f3dfca7c3813eff6cae3be.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-e344fb3272db7b4cc866f405677d186f63814756.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-54813c763412b35b3dc9d07d4ad034bdfab2b017.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-2fec390605dcb22de6de52d6a0f4734a1d162abf.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-f4c93df6b31abd99bbeac88d40a76db6f5fd0de6.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-c7af3cef125911fdc85362da3e67a6ac37c59a97.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-1a289a54f1aebdafce6355c286af63ac90689f50.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-156406c17cbc93bb06059833816a07d35ba14e14.jar" />
+    </item>
+    <item
+        jar="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/ruben/Documents/Opensoft/Opentour/android/app/build/intermediates/pre-dexed/debug/classes-de4315815ca89c9e4518d5c0f85d277cc38bf0c5.jar" />
+    </item>
+
+</items>
