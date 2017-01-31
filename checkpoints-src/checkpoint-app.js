@@ -7,7 +7,7 @@ import React from 'react';
 // Associar checkpoint atual aqui para facilitar desenvolvimento! Have fun!
 // Intro page: 'CheckPointIntro'
 
-let CHECKPOINT_ATUAL_NAME = 'CheckPoint3Init';
+let CHECKPOINT_ATUAL_NAME = 'CheckPointIntro';
 
 import {
     View
