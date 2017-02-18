@@ -85,7 +85,7 @@ class Detail extends React.Component {
 
     onPressNavigate() {
         var url = "http://maps.google.com/maps?z=12&t=m&q=loc:";
-        url += this.state.event.latitudeEvento + "+" + this.state.longitude;
+        url += this.state.event.latitudeEvento + "+" + this.state.event.longitudeEvento;
         Linking.canOpenURL(url).then(supported => {
             if (!supported) {
                 console.log('Can\'t handle url: ' + url);
