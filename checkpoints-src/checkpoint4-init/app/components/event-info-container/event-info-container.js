@@ -5,7 +5,8 @@ import {
     StyleSheet,
     Image,
     ScrollView,
-    Text
+    Text,
+    Linking
 } from 'react-native';
 
 class EventInfoContainer extends React.Component {
